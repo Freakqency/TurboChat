@@ -6,7 +6,7 @@ Turbo Chat is a real time chat application build on top of React and Firebase. I
 *	Backend security logic to ensure document integrity in fire store
 
 #### Installation
-* The app deployed on Firebase - 
+* The app deployed on Firebase - https://turbochat-659f6.web.app/
 * The app can be locally served, by cloning this repository and running
 ```bash
 npm start
